@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanskritibhardwaj
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently....
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me sanskriti123bhardwaj@gmail.com 
 
